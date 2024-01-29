@@ -1,0 +1,1 @@
+@livewire('admin.entete.entete')
